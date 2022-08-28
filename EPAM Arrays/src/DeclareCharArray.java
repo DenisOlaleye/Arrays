@@ -1,5 +1,12 @@
-	//з масиву символів у строку
-public class DeclareCharArray
+
+
+
+
+
+
+
+//з масиву символів у строку
+/*public class DeclareCharArray
 {
 	public static void main(String[] args) 
 	{
